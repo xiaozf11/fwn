@@ -75,7 +75,7 @@
                 return n("div", {attrs: {id: "app"}}, [n("div", {staticClass: "header_div"}, [n("div", {staticClass: "header_left"}, [e._v("BinaryX")]), e.address ? e._e() : n("div", {
                     staticClass: "header_right",
                     on: {click: e.connent}
-                }, [e._v("连接钱包")]), e.address ? n("div", {staticClass: "header_right"}, [e._v(e._s(e.getAddress))]) : e._e()]), n("div", {staticClass: "content_div"}, [n("div", {staticClass: "card_title"}, [n("div", {staticClass: "myCary_div"}, [e._v("\n\t\t\t\t我的卡片\n\t\t\t\t"), e.getMyHeroL.length > 0 ? n("div", [e._v("当前卡片数量（" + e._s(e.getMyHeroL.length) + "）")]) : e._e()]), n("div", {staticStyle: {"font-size": "15px"}}, [e._v("您要愿意的话请支援下小弟 0x5532e6916B22bdfc9d91cE9aE958efCc741d811A")])]), n("el-card", {
+                }, [e._v("连接钱包")]), e.address ? n("div", {staticClass: "header_right"}, [e._v(e._s(e.getAddress))]) : e._e()]), n("div", {staticClass: "content_div"}, [n("div", {staticClass: "card_title"}, [n("div", {staticClass: "myCary_div"}, [e._v("\n\t\t\t\t我的卡片\n\t\t\t\t"), e.getMyHeroL.length > 0 ? n("div", [e._v("当前卡片数量（" + e._s(e.getMyHeroL.length) + "）")]) : e._e()]), n("div", {staticStyle: {"font-size": "15px"}}, [e._v("您要愿意的话请支援下小弟 0xFF3E0d3212c41B9D2Af03dCF3934B05DEd558A2b")])]), n("el-card", {
                     staticClass: "box-card",
                     staticStyle: {"margin-bottom": "20px"}
                 }, [n("div", [n("el-form", {attrs: {"label-width": "90px"}}, [n("div", {staticStyle: {display: "flex"}}, [n("el-form-item", {
